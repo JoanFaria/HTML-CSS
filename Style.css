@@ -1,0 +1,45 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    color: tomato;
+}
+
+nav {
+    
+    background-color: silver;
+    border-color: gold;
+    border-width: 5px;
+    border-style: dotted;
+    display: inline-block;
+    
+}
+
+#horizontal {
+    padding: 0;
+}
+
+#horizontal li {
+    display: inline;
+}
+h3 {
+    color: orange;
+}
+
+.green-text {
+    color: green;
+}
+
+.small {
+    width: 100px;
+}
+
+#Subtitulo {
+    border-style: solid;
+    border-color: turquoise;
+    border-width: 5px;
+    display: inline;
+}
+
